@@ -1,5 +1,5 @@
 {
-  "name": "tag1",
+  "name": "lvl1_2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cowsay": "^1.5.0"
-  }
+  "license": "ISC"
 }
